@@ -1,7 +1,7 @@
 [submodule "backend"]
-  path = backend
-  url = https://github.com/AniraWeb/backend
+	path = backend
+	url = https://github.com/AniraWeb/backend
   
 [submodule "frontend"]
-  path = frontend
-  url = https://github.com/AniraWeb/frontend
+	path = frontend
+	url = https://github.com/AniraWeb/frontend
